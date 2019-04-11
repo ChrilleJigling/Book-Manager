@@ -65,7 +65,11 @@ class App extends Component {
                 1} tries!`
             );
           }
-
+          if (limit === 10) {
+            window.alert(`Status: ${status}\nOperation Failed`);
+          } else {
+            break;
+          }
           break;
         } else {
           window.alert(`Status: ${status}\nOperation Failed`);
