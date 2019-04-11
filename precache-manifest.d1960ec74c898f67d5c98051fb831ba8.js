@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "d8709a81833b1c06f1c6",
+    "revision": "597b693528a0f7c2cd79",
     "url": "/Book-Manager/static/css/main.ec6a5a0a.chunk.css"
   },
   {
-    "revision": "d8709a81833b1c06f1c6",
-    "url": "/Book-Manager/static/js/main.b6a4b9dd.chunk.js"
+    "revision": "597b693528a0f7c2cd79",
+    "url": "/Book-Manager/static/js/main.52ba3e6b.chunk.js"
   },
   {
     "revision": "83adffc435eaa259eeef",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Book-Manager/static/media/book.8db08b32.png"
   },
   {
-    "revision": "b3886bbf631a552288e81263ddc73edd",
+    "revision": "fd96c638cf457dcfb36e3790b82b5ffd",
     "url": "/Book-Manager/index.html"
   }
 ];
