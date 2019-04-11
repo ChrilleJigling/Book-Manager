@@ -72,7 +72,6 @@ class App extends Component {
           }
           break;
         } else {
-          window.alert(`Status: ${status}\nOperation Failed`);
           console.log(`ERROR: ${message}`);
         }
       }
